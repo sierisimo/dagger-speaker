@@ -1,1 +1,1 @@
-module: "sierisimo.com/dagger-speaker"
+module: "github.com/sierisimo/dagger-speaker"
