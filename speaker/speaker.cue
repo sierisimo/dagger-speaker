@@ -7,5 +7,5 @@ import(
 #Speaker: {
     name: string
     username: string
-		communities: [...community.#Community]
+		communities: [...community.#KnownCommunities]
 }
